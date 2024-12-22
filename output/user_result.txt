@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-22 18:23:54,url
+2024-12-23 06:31:40,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -75,9 +75,9 @@ CCTV-8,http://220.249.114.102:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1
 CCTV-8,http://60.7.56.33:4000/rtp/239.253.92.195:6060$组播源
 CCTV-8,http://www.furymax.top:85/rtp/239.69.1.125:10388$组播源
 CCTV-8,http://123.113.187.204:8000/rtp/239.3.1.175:8001$组播源
+CCTV-8,http://60.255.240.247:8090/live/CCTV-8H265.m3u8$订阅源-1920x1080
+CCTV-8,http://60.255.240.247:8090/live/CCTV-8H265_4000.m3u8$订阅源-1920x1080
 CCTV-8,http://110.52.244.53:9003//hls/9/index.m3u8$订阅源
-CCTV-8,http://60.210.100.54:352/tsfile/live/0008_1.m3u8$订阅源
-CCTV-8,http://202.100.46.58:9901/tsfile/live/1007_1.m3u8$订阅源
 CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-9,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-9,http://220.249.114.102:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
