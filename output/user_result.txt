@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-25 18:27:00,url
+2024-12-26 06:32:22,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -66,9 +66,9 @@ CCTV-7,http://220.249.114.102:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1
 CCTV-7,http://221.219.79.161:4000/rtp/239.3.1.61:8104$组播源
 CCTV-7,http://60.2.190.206:4000/rtp/239.253.92.194:6059$组播源
 CCTV-7,http://114.252.238.87:8000/rtp/239.3.1.61:8104$组播源
+CCTV-7,http://60.255.240.247:8090/live/CCTV-7H265.m3u8$订阅源-1920x1080
+CCTV-7,http://60.255.240.247:8090/live/CCTV-7H265_4000.m3u8$订阅源-1920x1080
 CCTV-7,http://61.136.67.238:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-7,http://218.77.81.186:9901/tsfile/live/0007_1.m3u8$订阅源
-CCTV-7,http://60.210.100.54:352/tsfile/live/0007_1.m3u8$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-8,http://220.249.114.102:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -111,27 +111,27 @@ CCTV-12,http://220.249.114.102:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=
 CCTV-12,http://60.2.190.206:4000/rtp/239.253.92.197:6062$组播源
 CCTV-12,http://221.219.79.161:4000/rtp/239.3.1.64:8124$组播源
 CCTV-12,http://114.252.238.87:8000/rtp/239.3.1.64:8124$组播源
-CCTV-12,http://60.255.240.247:8090/live/CCTV-12H265_4000.m3u8$订阅源-1920x1080
-CCTV-12,http://60.255.240.247:8090/live/CCTV-12H265.m3u8$订阅源-1920x1080
 CCTV-12,http://61.136.67.238:50085/tsfile/live/0012_1.m3u8$订阅源
+CCTV-12,http://116.9.204.242:9901/tsfile/live/0012_1.m3u8$订阅源
+CCTV-12,http://60.255.240.247:8090/live/CCTV-12H265_4000.m3u8$订阅源-1920x1080
 CCTV-13,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-13,http://220.249.114.102:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-13,http://222.129.139.91:8888/rtp/239.3.1.124:8128$组播源
 CCTV-13,http://123.113.187.204:8000/rtp/239.3.1.124:8128$组播源
 CCTV-13,http://114.252.238.87:8000/rtp/239.3.1.124:8128$组播源
+CCTV-13,http://60.255.240.247:8090/live/CCTV-xw.m3u8$订阅源-1920x1080
+CCTV-13,http://60.255.240.247:8090/live/CCTV-xw_4000.m3u8$订阅源-1920x1080
 CCTV-13,http://202.100.46.58:9901/tsfile/live/1013_1.m3u8$订阅源
-CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8$订阅源
-CCTV-13,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8$订阅源
 CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-14,http://220.249.114.102:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-14,http://222.129.139.229:8888/rtp/239.3.1.65:8132$组播源
 CCTV-14,http://114.252.238.87:8000/rtp/239.3.1.65:8132$组播源
 CCTV-14,http://123.113.187.204:8000/rtp/239.3.1.65:8132$组播源
+CCTV-14,http://60.255.240.247:8090/live/CCTV-14H265.m3u8$订阅源-1920x1080
+CCTV-14,http://60.255.240.247:8090/live/CCTV-14H265_4000.m3u8$订阅源-1920x1080
 CCTV-14,http://60.210.100.54:352/tsfile/live/0014_1.m3u8$订阅源
-CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8$订阅源
-CCTV-14,http://218.77.81.186:9901/tsfile/live/0014_1.m3u8$订阅源
 CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-15,http://220.249.114.102:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
