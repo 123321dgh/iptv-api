@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-30 06:32:22,url
+2024-12-30 18:24:49,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -31,9 +31,9 @@ CCTV-4,http://220.249.114.102:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1
 CCTV-4,http://222.129.139.91:8888/rtp/239.3.1.213:4220$组播源
 CCTV-4,http://221.219.79.161:4000/rtp/239.3.1.214:4220$组播源
 CCTV-4,http://221.219.79.161:4000/rtp/239.3.1.213:4220$组播源
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源-1920x1080
 CCTV-4,http://60.210.100.54:352/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://61.136.67.238:50085/tsfile/live/0004_1.m3u8$订阅源
+CCTV-4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-5,http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
