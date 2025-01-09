@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-01-09 18:25:00" tvg-logo="https://live.fanmingming.com/tv/2025-01-09 18:25:00.png" group-title="更新时间",2025-01-09 18:25:00
+#EXTINF:-1 tvg-name="2025-01-10 06:31:32" tvg-logo="https://live.fanmingming.com/tv/2025-01-10 06:31:32.png" group-title="更新时间",2025-01-10 06:31:32
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -322,9 +322,9 @@ http://123.113.187.204:8000/rtp/239.3.1.184:8001$组播源
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 http://202.100.46.58:9901/tsfile/live/1016_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
-http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254$订阅源
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
 https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
+http://58.221.214.82:9901/tsfile/live/0002_2.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://60.2.190.206:4000/rtp/239.253.93.150:6318$组播源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
