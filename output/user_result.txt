@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-31 06:38:30,url
+2025-01-31 18:31:33,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -10,9 +10,9 @@ CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-2,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8$订阅源
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8$订阅源
 CCTV-2,http://61.138.128.226:19901/tsfile/live/0002_1.m3u8$订阅源
+CCTV-2,http://58.17.116.69:9908/tsfile/live/0001_2.m3u8$订阅源
 CCTV-3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源
